@@ -1,0 +1,15 @@
+C:\Users\Дарья\Desktop\Control1\control\bin\Debug\net7.0\control.exe
+C:\Users\Дарья\Desktop\Control1\control\bin\Debug\net7.0\control.deps.json
+C:\Users\Дарья\Desktop\Control1\control\bin\Debug\net7.0\control.runtimeconfig.json
+C:\Users\Дарья\Desktop\Control1\control\bin\Debug\net7.0\control.dll
+C:\Users\Дарья\Desktop\Control1\control\bin\Debug\net7.0\control.pdb
+C:\Users\Дарья\Desktop\Control1\control\obj\Debug\net7.0\control.csproj.AssemblyReference.cache
+C:\Users\Дарья\Desktop\Control1\control\obj\Debug\net7.0\control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дарья\Desktop\Control1\control\obj\Debug\net7.0\control.AssemblyInfoInputs.cache
+C:\Users\Дарья\Desktop\Control1\control\obj\Debug\net7.0\control.AssemblyInfo.cs
+C:\Users\Дарья\Desktop\Control1\control\obj\Debug\net7.0\control.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\Desktop\Control1\control\obj\Debug\net7.0\control.dll
+C:\Users\Дарья\Desktop\Control1\control\obj\Debug\net7.0\refint\control.dll
+C:\Users\Дарья\Desktop\Control1\control\obj\Debug\net7.0\control.pdb
+C:\Users\Дарья\Desktop\Control1\control\obj\Debug\net7.0\control.genruntimeconfig.cache
+C:\Users\Дарья\Desktop\Control1\control\obj\Debug\net7.0\ref\control.dll
